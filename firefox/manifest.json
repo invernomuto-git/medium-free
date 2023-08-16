@@ -17,6 +17,6 @@
 	},
 
 	"browser_action": {
-		"default_title": "Open new tab"
+		"default_title": "Open Medium article Google Cache in a new tab"
 	}
 }
