@@ -16,6 +16,5 @@ istruzione per caricare lo scritp quando avviene un match tra quelli presenti \
 ### Appunti
 Per vedere i console.log di background.js cliccare su Analizza della estenzione in about:debugging#/runtime/this-firefox
 
-Aggiungere il titolo della tab originale con prima "Google Cache - "
-
+## TO DO
 Creare una pagina di impostazioni dove si possa abilitare direttamente la reader mode di firefox, come da istruzione commentata in `background.js`

@@ -2,9 +2,15 @@
 // document.body.style.border = "5px solid red";
 // urlPage = document.location.href;
 
-var text = document.body.innerHTML;
+const text = document.body.innerHTML;
+const title = document.title;
 
 document.body.innerHTML = text;
+//* IMPOSTO UN TIMEOUT PER EVITARE CHE LO SCRIPT DI CANCELLAZIONE DI MEDIUM CANCELLI IL TITOLO AGGIORNATO
+setTimeout( () => { 
+		document.title = 'Google Cache - '+title;
+		// alert(title) 
+	}, 1000 );
 
 const debug = false;
 
