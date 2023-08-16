@@ -18,3 +18,5 @@ Per vedere i console.log di background.js cliccare su Analizza della estenzione 
 
 ## TO DO
 Creare una pagina di impostazioni dove si possa abilitare direttamente la reader mode di firefox, come da istruzione commentata in `background.js`
+
+Cercare di passare alla versione 3 del amnifest che il 2023, almeno su chrome, sarà deprecato
