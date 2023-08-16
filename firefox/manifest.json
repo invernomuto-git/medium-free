@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Medium Free with Google Cache",
 	"version": "1.0",
-	"homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/open-my-page-button",
+	"homepage_url": "https://github.com/invernomuto-git/medium-free",
 	"description": "Medium articles fully readable using Google Cache",
 
 	"icons": {
