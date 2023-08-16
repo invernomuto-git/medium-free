@@ -1,0 +1,17 @@
+### Appunti del JSon
+file `manifest.json` \
+Il caricamento al momento viene effettuato all'apertura del popup in modo da evitare che le modifiche vengano applicate a qualsiasi pagina di google cache che si sta visitando \
+`
+  "content_scripts": [
+    {
+      "matches": ["*://webcache.googleusercontent.com/*"],
+      "js": ["mediumReadble.js"]
+    }
+  ],
+`
+
+istruzione per caricare lo scritp quando avviene un match tra quelli presenti \
+`"matches": ["*://*.medium.com/*", "*://webcache.googleusercontent.com/*"],`
+
+### Appunti
+Per vedere i console.log di background.js cliccare su Analizza della estenzione in about:debugging#/runtime/this-firefox

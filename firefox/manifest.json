@@ -1,0 +1,22 @@
+{
+	"manifest_version": 2,
+	"name": "Medium Free with Google Cache",
+	"version": "1.0",
+	"homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/open-my-page-button",
+	"description": "Medium articles fully readable using Google Cache",
+
+	"icons": {
+		"48": "icons/medium-48.png"
+	},
+
+	"permissions": [
+		"<all_urls>"
+	],
+	"background": {
+		"scripts": ["background.js"]    
+	},
+
+	"browser_action": {
+		"default_title": "Open new tab"
+	}
+}
