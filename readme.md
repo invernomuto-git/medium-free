@@ -9,3 +9,6 @@ eg. http://webcache.googleusercontent.com/search?q=cache:https://tomaszs2.medium
 This extension allows you to add a button to the browser which, if clicked when you are on a Medium article, opens the corresponding cached copy of Google and tries to keep the content readable, even if the solution found is not stylistically excellent from a stylistic point of view. But it works.
 
 This is my first extension, so there will surely be many things to improve and fix. Contact me and I will try to give you feedback as soon as possible.
+
+## Coming Soon
+The url on firefox extension
