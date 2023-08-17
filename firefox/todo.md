@@ -1,4 +1,5 @@
 ### Appunti del JSon
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/permissions \
 file `manifest.json` \
 Il caricamento al momento viene effettuato all'apertura del popup in modo da evitare che le modifiche vengano applicate a qualsiasi pagina di google cache che si sta visitando \
 `
