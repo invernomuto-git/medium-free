@@ -10,5 +10,13 @@ This extension allows you to add a button to the browser which, if clicked when 
 
 This is my first extension, so there will surely be many things to improve and fix. Contact me and I will try to give you feedback as soon as possible.
 
+## Version Log
+### 1.0 
+First Firefox add-on bootstrap
+
+### 1.1 
+First Chrome extension bootstrap
+Changed Google Cache page used for get article content from "Complete Version" to "Source Code"
+
 ## Coming Soon
 The url on firefox extension
