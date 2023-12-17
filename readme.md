@@ -10,6 +10,8 @@ This extension allows you to add a button to the browser which, if clicked when 
 
 This is my first extension, so there will surely be many things to improve and fix. Contact me and I will try to give you feedback as soon as possible.
 
+Link to Firefox extension installation page: https://addons.mozilla.org/it/firefox/addon/medium-free-with-google-cache/
+
 ## Version Log
 ### 1.0 
 First Firefox add-on bootstrap
